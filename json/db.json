@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "id": 6,
+      "name": "Muhammad Zidane",
+      "mobile": "081296430776",
+      "email": "muhammadzidane633@gmail.com",
+      "company": "Mercu Buana University",
+      "image": "https://akcdn.detik.net.id/visual/2019/09/17/eac9e515-9c23-4d1c-9faf-ba0eafaeed5e_43.jpeg?w=360&q=90",
+      "title": "Savior",
+      "groupId": 4
+    },
+    {
+      "name": "Narutos",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2022/11/30/2368931154.jpg",
+      "mobile": "6563523",
+      "email": "narti123@gmai.com",
+      "company": "konoha2",
+      "title": "ninja",
+      "groupId": 3,
+      "id": 7
+    }
+  ],
+  "group": [
+    {
+      "id": 1,
+      "name": "Friend"
+    },
+    {
+      "id": 2,
+      "name": "Family"
+    },
+    {
+      "id": 3,
+      "name": "Office"
+    },
+    {
+      "id": 4,
+      "name": "Enemny"
+    }
+  ]
+}
